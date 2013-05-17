@@ -1,0 +1,433 @@
+
+water_world_atlas.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+main_screen_bg
+  rotate: false
+  xy: 1, 217
+  size: 481, 800
+  orig: 481, 800
+  offset: 0, 0
+  index: -1
+level_1_bg
+  rotate: false
+  xy: 484, 217
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: -1
+water_world
+  rotate: false
+  xy: 1, 15
+  size: 440, 200
+  orig: 440, 200
+  offset: 0, 0
+  index: -1
+speech_bublle
+  rotate: false
+  xy: 443, 57
+  size: 318, 158
+  orig: 318, 158
+  offset: 0, 0
+  index: -1
+snail
+  rotate: false
+  xy: 763, 51
+  size: 152, 164
+  orig: 152, 164
+  offset: 0, 0
+  index: -1
+map_ship_disabled
+  rotate: false
+  xy: 917, 95
+  size: 100, 120
+  orig: 100, 120
+  offset: 0, 0
+  index: -1
+card
+  rotate: false
+  xy: 917, 15
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: 11
+map_cross_disabled
+  rotate: false
+  xy: 966, 975
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+map_cross_enabled
+  rotate: false
+  xy: 966, 931
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+map_cross_selected
+  rotate: false
+  xy: 966, 887
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+map_fishes_disabled
+  rotate: false
+  xy: 443, 29
+  size: 56, 26
+  orig: 56, 26
+  offset: 0, 0
+  index: -1
+map_fishes_enabled
+  rotate: false
+  xy: 501, 29
+  size: 56, 26
+  orig: 56, 26
+  offset: 0, 0
+  index: -1
+map_fishes_selected
+  rotate: false
+  xy: 559, 29
+  size: 56, 26
+  orig: 56, 26
+  offset: 0, 0
+  index: -1
+snail_pearl
+  rotate: false
+  xy: 1, 1
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+buble
+  rotate: false
+  xy: 997, 83
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: 1
+buble
+  rotate: false
+  xy: 1010, 1011
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: 2
+
+water_world_atlas2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+level_2_bg
+  rotate: false
+  xy: 1, 223
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: -1
+level_3_bg
+  rotate: false
+  xy: 483, 223
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: -1
+snail
+  rotate: false
+  xy: 1, 57
+  size: 152, 164
+  orig: 152, 164
+  offset: 0, 0
+  index: 12
+snail
+  rotate: false
+  xy: 155, 57
+  size: 152, 164
+  orig: 152, 164
+  offset: 0, 0
+  index: 20
+snail
+  rotate: false
+  xy: 309, 57
+  size: 152, 164
+  orig: 152, 164
+  offset: 0, 0
+  index: 36
+start
+  rotate: false
+  xy: 463, 75
+  size: 158, 146
+  orig: 158, 146
+  offset: 0, 0
+  index: -1
+start_clicked
+  rotate: false
+  xy: 623, 75
+  size: 158, 146
+  orig: 158, 146
+  offset: 0, 0
+  index: -1
+back_to_map
+  rotate: false
+  xy: 783, 87
+  size: 148, 134
+  orig: 148, 134
+  offset: 0, 0
+  index: -1
+card
+  rotate: false
+  xy: 463, 1
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: 1
+card
+  rotate: false
+  xy: 537, 1
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: 10
+card
+  rotate: false
+  xy: 611, 1
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: 17
+card
+  rotate: false
+  xy: 685, 1
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: 18
+card
+  rotate: false
+  xy: 759, 1
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: 2
+card
+  rotate: false
+  xy: 833, 7
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: 12
+card
+  rotate: false
+  xy: 933, 143
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: 13
+card
+  rotate: false
+  xy: 933, 63
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: 14
+
+water_world_atlas3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+lose_screen_bg
+  rotate: false
+  xy: 1, 217
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: -1
+win_screen_bg
+  rotate: false
+  xy: 483, 217
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: -1
+back_to_map_clicked
+  rotate: false
+  xy: 1, 81
+  size: 148, 134
+  orig: 148, 134
+  offset: 0, 0
+  index: -1
+fish_angry
+  rotate: false
+  xy: 151, 91
+  size: 136, 124
+  orig: 136, 124
+  offset: 0, 0
+  index: -1
+fish_happy
+  rotate: false
+  xy: 289, 91
+  size: 136, 124
+  orig: 136, 124
+  offset: 0, 0
+  index: 1
+fish_happy
+  rotate: false
+  xy: 427, 91
+  size: 136, 124
+  orig: 136, 124
+  offset: 0, 0
+  index: 2
+fish_sad
+  rotate: false
+  xy: 565, 91
+  size: 136, 124
+  orig: 136, 124
+  offset: 0, 0
+  index: -1
+fish_scared
+  rotate: false
+  xy: 703, 91
+  size: 136, 124
+  orig: 136, 124
+  offset: 0, 0
+  index: -1
+exit
+  rotate: false
+  xy: 841, 93
+  size: 130, 122
+  orig: 130, 122
+  offset: 0, 0
+  index: -1
+card
+  rotate: false
+  xy: 1, 1
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: 15
+card
+  rotate: false
+  xy: 81, 1
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: 16
+shell
+  rotate: false
+  xy: 161, 11
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 241, 11
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+card
+  rotate: false
+  xy: 321, 17
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: 3
+card
+  rotate: false
+  xy: 395, 17
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: 4
+card
+  rotate: false
+  xy: 469, 17
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: 5
+card
+  rotate: false
+  xy: 543, 17
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: 6
+card
+  rotate: false
+  xy: 617, 17
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: 7
+card
+  rotate: false
+  xy: 691, 17
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: 8
+card
+  rotate: false
+  xy: 765, 17
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: 9
+volume
+  rotate: false
+  xy: 841, 25
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+volume_clicked
+  rotate: false
+  xy: 909, 25
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+
+water_world_atlas4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+cyberhand_black
+  rotate: false
+  xy: 1, 1
+  size: 320, 480
+  orig: 320, 480
+  offset: 0, 0
+  index: -1
+map_screen_bg
+  rotate: false
+  xy: 323, 1
+  size: 320, 480
+  orig: 320, 480
+  offset: 0, 0
+  index: -1
+exit_clicked
+  rotate: false
+  xy: 645, 359
+  size: 130, 122
+  orig: 130, 122
+  offset: 0, 0
+  index: -1
+map_ship_enabled
+  rotate: false
+  xy: 645, 237
+  size: 100, 120
+  orig: 100, 120
+  offset: 0, 0
+  index: -1
+map_ship_selected
+  rotate: false
+  xy: 777, 361
+  size: 100, 120
+  orig: 100, 120
+  offset: 0, 0
+  index: -1
